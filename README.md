@@ -1,4 +1,5 @@
 Etudiant informatique en recherche d'une alternance en développement web
+
 💞️ Mes passions:
   - Les nouvelles technologies
   - Les mangas / animés
