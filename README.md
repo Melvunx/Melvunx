@@ -8,7 +8,7 @@ Etudiant informatique en recherche d'une alternance en développement web
   - Apprendre de nouvelles choses
 
 
-En ce moment je suis une formation pour développer mes compéntences dans le développement full-stack !
+En ce moment je suis cette formation https://fromscratch.podia.com/ pour développer mes compéntences dans le développement full-stack !
 
 Vous pouvez me contacter via mon email:
 
