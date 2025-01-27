@@ -7,13 +7,6 @@ Etudiant informatique en recherche d'une alternance en développement web
   - L'astronomie
   - Apprendre de nouvelles choses
 
-
-En ce moment je suis une formation pour développer mes compéntences dans le développement full-stack !
-
-Voici la formation en question :
-
-From Scratch https://fromscratch.podia.com/
-
 Vous pouvez me contacter via mon email:
 
   - augustine.melv@gmail.com
