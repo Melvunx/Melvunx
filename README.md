@@ -1,4 +1,4 @@
-Etudiant informatique en recherche d'une alternance en développement web
+Etudiant informatique !
 
 💞️ Mes passions:
   - Les nouvelles technologies
